@@ -16,6 +16,10 @@
     position: relative;
     
 }
+#empty{
+  font-size: .9em;
+  color: red;
+}
 button{
   padding: 10px 20px;
   background-color: #eee;
