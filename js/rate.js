@@ -20,8 +20,8 @@ const calculate = () => {
         let interest_rate = (principal*rate*term)/100;
         let roi = parseFloat(principal) + interest_rate;
 
-        print_interest.textContent = interest_rate.toFixed(2);
-        print_roi.textContent = roi.toFixed(2);
+        print_interest.textContent = "₦" + interest_rate.toFixed(2);
+        print_roi.textContent ="₦" + roi.toFixed(2);
     } 
 }
 
