@@ -6,7 +6,7 @@
 - CSS remove default style and added custom styles
 - JS create ``calculate()`` function and performed the calculations. 
 
-# Formula
+# Simple Interest Formula
 Simple Interest=P×r×t/100 where: 
 * P = Principal amount 
 * r = Annual interest rate 

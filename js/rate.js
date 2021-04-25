@@ -4,6 +4,7 @@
 const print_interest = document.getElementById('interest')
 const print_roi = document.getElementById('roi');
 
+// Calculate Function
 const calculate = () => {
     let principal=document.getElementById('principal').value;
     let rate=document.getElementById('rate').value;
